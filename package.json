@@ -1,0 +1,11 @@
+{
+  "name": "eventsourcingjs",
+  "version": "1.0.0",
+  "description": "handwritten clone of event sourcing in javascript video",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
